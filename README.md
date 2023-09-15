@@ -10,7 +10,8 @@ bert4keras==0.9.9
 5. ChnSentiCorp.   
 6. TNEWS.
 
-## Coming soon
+## code and models
+link: https://pan.baidu.com/s/1MoGoQpPzWdG3mGm-_kmZSA Extraction code: cktx
 
 # Reference
 If you find our source useful, please consider citing our work.
